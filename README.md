@@ -89,9 +89,9 @@ keeping a self-hosted stack alive across machines.
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KKimSoulz/KKimSoulz/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/KKimSoulz/KKimSoulz/output/github-snake.svg" />
-  <img alt="github contribution snake" src="https://raw.githubusercontent.com/KKimSoulz/KKimSoulz/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KKimSoulz/KKimSoulz/output/github-snake-dark.svg?v=red" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/KKimSoulz/KKimSoulz/output/github-snake.svg?v=red" />
+  <img alt="github contribution snake" src="https://raw.githubusercontent.com/KKimSoulz/KKimSoulz/output/github-snake-dark.svg?v=red" />
 </picture>
 
 </div>
