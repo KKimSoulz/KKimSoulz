@@ -1,7 +1,9 @@
 <div align="center">
 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:161b22,50:0e4429,100:00ff9f&height=210&section=header&text=kksz%40mih&fontColor=00ff9f&fontSize=58&fontAlignY=36&desc=Full%20Stack%20%C2%B7%20DevOps%20%2F%20Infra%20%C2%B7%20AI%20Agent%20Wrangler&descAlignY=56&descSize=18&descColor=c9d1d9&animation=fadeIn&fontFamily=monospace" alt="header" />
+
 <a href="https://kksz.dev">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=00FF9F&center=true&vCenter=true&width=760&height=70&lines=Saksit+Chokchai+%2F%2F+kksz;Full+Stack+Developer;DevOps+%26+Infra+Engineer;Healthcare+systems+%40+MIH;...and+AI+agents+that+run+themselves" alt="typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00FF9F&center=true&vCenter=true&width=760&height=60&lines=Saksit+Chokchai+%2F%2F+kksz;Full+Stack+Developer;DevOps+%26+Infra+Engineer;Healthcare+systems+%40+MIH;...and+AI+agents+that+run+themselves" alt="typing" />
 </a>
 
 <br/>
@@ -12,7 +14,7 @@
 
 </div>
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:00ff9f,100:0d1117&height=3&section=header" alt="" />
 
 ## `> whoami`
 
@@ -32,7 +34,7 @@ I turn healthcare workflows into systems that ship — frontend, backend, and th
 infra underneath. Lately I spend most cycles wiring autonomous AI agents and
 keeping a self-hosted stack alive across machines.
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:00ff9f,100:0d1117&height=3&section=header" alt="" />
 
 ## `> stack --list`
 
@@ -57,7 +59,7 @@ keeping a self-hosted stack alive across machines.
 
 </div>
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:00ff9f,100:0d1117&height=3&section=header" alt="" />
 
 ## `> git log --stat`
 
@@ -80,7 +82,21 @@ keeping a self-hosted stack alive across machines.
 
 </div>
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:00ff9f,100:0d1117&height=3&section=header" alt="" />
+
+## `> contribution.snake`
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KKimSoulz/KKimSoulz/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/KKimSoulz/KKimSoulz/output/github-snake.svg" />
+  <img alt="github contribution snake" src="https://raw.githubusercontent.com/KKimSoulz/KKimSoulz/output/github-snake-dark.svg" />
+</picture>
+
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:00ff9f,100:0d1117&height=3&section=header" alt="" />
 
 ## `> ./connect.sh`
 
@@ -92,8 +108,4 @@ keeping a self-hosted stack alive across machines.
 
 </div>
 
----
-
-<div align="center">
-<sub><code>kksz@mih:~$ exit  # thanks for stopping by 💚</code></sub>
-</div>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff9f,50:0e4429,100:161b22&height=140&section=footer&text=kksz%40mih%3A~%24%20exit&fontColor=00ff9f&fontSize=20&fontAlignY=72&fontFamily=monospace" alt="footer" />
