@@ -63,16 +63,20 @@ keeping a self-hosted stack alive across machines.
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=KKimSoulz&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=00FF9F&icon_color=00FF9F&text_color=c9d1d9" alt="stats" />
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=KKimSoulz&hide_border=true&background=0D1117&ring=00FF9F&fire=00FF9F&currStreakLabel=00FF9F&currStreakNum=c9d1d9&sideLabels=c9d1d9&sideNums=c9d1d9&dates=8b949e" alt="streak" />
+<img width="820" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KKimSoulz&theme=github_dark" alt="profile summary" />
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KKimSoulz&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=00FF9F&text_color=c9d1d9" alt="top langs" />
+<img height="195" src="https://github-readme-streak-stats.herokuapp.com/?user=KKimSoulz&hide_border=true&background=0D1117&ring=00FF9F&fire=00FF9F&currStreakLabel=00FF9F&currStreakNum=c9d1d9&sideLabels=c9d1d9&sideNums=c9d1d9&dates=8b949e" alt="streak" />
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=KKimSoulz&bg_color=0D1117&color=00FF9F&line=00FF9F&point=ffffff&area=true&hide_border=true" alt="activity graph" />
+<img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=KKimSoulz&theme=github_dark" alt="repos per language" />
+<img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=KKimSoulz&theme=github_dark" alt="most used languages" />
+
+<br/>
+
+<img width="820" src="https://github-readme-activity-graph.vercel.app/graph?username=KKimSoulz&bg_color=0D1117&color=00FF9F&line=00FF9F&point=ffffff&area=true&hide_border=true" alt="activity graph" />
 
 </div>
 
